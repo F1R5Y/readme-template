@@ -1,9 +1,5 @@
 <!--markdown tutorial-->
 
-Anisul Islam<br/>
-This is second line
-
----
 
 # Salman Firsy
 
